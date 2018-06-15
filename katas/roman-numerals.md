@@ -14,6 +14,7 @@ new RomanNumeral(99).toRoman(); //=> "XCIX"
 * Using this implementation (where 4 is "IV") the highest possible number is 3999
 
 | Integer | Roman Numeral |
+|---------|---------------|
 | 1 | I |
 | 2 | II |
 | 3 | III |
