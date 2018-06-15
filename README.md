@@ -4,6 +4,7 @@ This is a repository of coding dojo resources including katas (exercises) and co
 
 ## Katas
 
+* [Roman Numerals](./katas/roman-numerals.md)
 * [Tennis Scoring](./katas/tennis-scoring.md)
 
 ## Constraints
